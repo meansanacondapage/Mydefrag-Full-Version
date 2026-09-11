@@ -239,3 +239,6 @@ This repository serves as the official landing page for MyDefrag. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MyDefrag today!**
+
+---
+**Last updated:** 2026-09-11 14:50:32 UTC
